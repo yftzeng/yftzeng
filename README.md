@@ -1,0 +1,1 @@
+Experience multi-industry architect / consultant, seeking to use proven business practices, process assessment, and agile skills to provide deep and actionable insights. Always searching for challenging opportunities to apply current expertise, and to explore and learn new technologies / methodologies to find an optimum solution.
