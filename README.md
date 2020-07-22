@@ -1,8 +1,8 @@
-» [https://www.leadbestconsultant.com/|LeadBest Consulting Group] - Chief Executive Consultant
+» [LeadBest Consulting Group](https://www.leadbestconsultant.com/) - Chief Executive Consultant
 
-» [https://www.facebook.com/tgotaiwan/|Top Geeks' Organization (TGO) - Taipei branch] - Membership committee
+» [Top Geeks' Organization (TGO) - Taipei branch](https://www.facebook.com/tgotaiwan/) - Membership committee
 
-» [https://chroot.org/|CHROOT] : Taiwan security group - Member
+» [CHROOT](https://chroot.org) : Taiwan security group - Member
 
 Experience multi-industry architect / consultant, seeking to use proven business practices, process assessment, and agile skills to provide deep and actionable insights. Always searching for challenging opportunities to apply current expertise, and to explore and learn new technologies / methodologies to find an optimum solution.
 
