@@ -32,6 +32,7 @@ Experience multi-industry architect / consultant, seeking to use proven business
 
 ## Public Presentation
 
+- 2020-07-25 : [LaravelConf Taiwan 2020 - Severless PHP Case Agile Dashboard via GitLab Board API](https://2020.laravelconf.tw/)
 - 2019-12-16 : [PHP 也有 Day 番外篇 - Ant 的 RDBMS 資料庫設計討論營系列活動 - PostgreSQL 中文全文檢索 & 資料庫淺談 (續)](https://phptheday.kktix.cc/events/ant-2019-rdbms-2)
 - 2019-12-10 : [PHP 也有 Day 番外篇 - Ant 的 RDBMS 資料庫設計討論營系列活動 - 資料庫淺談](https://phptheday.kktix.cc/events/ant-2019-rdbms-1)
 - 2019-08-28 : [Progressive Deployment & NoDeploy](https://modernweb.tw/2019/agenda.html) @ Modern Web 2019 Keynote
