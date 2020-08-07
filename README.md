@@ -61,7 +61,7 @@ Experience multi-industry architect / consultant, seeking to use proven business
 - 2014-12-22 : [【工程師篇】智慧財產權奇幻之旅](http://ntustsg.kktix.cc/events/120d4dba)
 - 2014-10-25 : [App及Maker開發者防身術](https://mopcon.org/2014/session.php) @ MOPCON (Taiwan) 2014
 - 2014-07-16 : [GIT 的 develop 與 master - 前端攻城獅的團戰攻略](https://youmeb.kktix.cc/events/f2e10) @ FED Party 10
-- 2014 - NCKU (成功大學) speaker - 雲、端、架構
+- 2014-06-10 : [雲、端、架構](嵌入式作業系統設計與實作 課程) @ NCKU (成功大學) 嵌入式作業系統設計與實作課程講師
 - 2014-05-04 : [社群經營的法律議題](https://www.slideshare.net/ukikDoris/ant-34255081) @ uknowiknow (你知我知好學網) 沙龍#14
 - 2014 - PunApp InstALL 15 speaker - 山寨的界限
 - 2013 - JSDC Taiwan 2013 speaker - (前端)工程師面臨的資安挑戰-後傳
