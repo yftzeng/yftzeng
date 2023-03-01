@@ -1,37 +1,47 @@
-## Experiences
+## Profile
 
-» [LeadBest Consulting Group](https://www.leadbestconsultant.com/) - Chief Executive Consultant
+Experienced architect and consultant across multiple industries with proven business practices, process assessment, and agile skills to provide deep and actionable insights. Skilled in working with cross-functional teams and stakeholders, with strong communication skills.
+
+## Work Experience
+
+» [LeadBest Consulting Group](https://www.leadbestconsultant.com/) - Chief Executive Consultant / 首席執行顧問
 
 » [Top Geeks' Organization (TGO) - Taipei branch](https://www.facebook.com/tgotaiwan/) - Membership committee
 
 » [CHROOT](https://chroot.org) : Taiwan security group - Member
 
-Experience multi-industry architect / consultant, seeking to use proven business practices, process assessment, and agile skills to provide deep and actionable insights. Always searching for challenging opportunities to apply current expertise, and to explore and learn new technologies / methodologies to find an optimum solution.
-
 ## Skill Summary
 
 ### Transformation
 
-* Experience business reengineering 4 times, empower with Cross-functional teams, include working with stakeholders, customer, legal team, sales team, marketing team, finance team and PR team, via strong communication skills (verbal and written).
+* Business reengineering experience with cross-functional teams, including stakeholders, customers, legal team, sales team, marketing team, finance team, and PR team
+* Strong communication skills (verbal and written)
 
-### Architect
+### Architecture
 
-* Experience multi-industry architect / consultant in AdTech, Fintech (e-commerce, smartcard), Classical music, OTT media and IFEC.
-* Experience planning, designing and implementing software architecture for small-mid-large scale business solutions to meet business needs and priorities.
-* Ensuring solutions are of high quality, are high performance and are scalable. Reach 10000+ thousands MAU, 100+ thousands current users, 10+ PB data, scale up/down in 2/7 minutes.
+* Multi-industry architect/consultant in AdTech, Fintech (e-commerce, smartcard), Classical music, OTT media and IFEC
+* Experience in planning, designing and implementing software architecture for small-mid-large scale business solutions to meet business needs and priorities
+* Ensuring solutions are of high quality, are high performance and are scalable. Reach 10000+ thousands MAU, 100+ thousands current users, 10+ PB data, scale up/down in 2/7 minutes
 
 ### Security
 
-* Experience reverse- engineering software (web application and Android app), dig out business insights of competitor.
-* Familiar with authentication, anti-DDoS, man-in-the-middle and information operation. Zero security damage occurred.
+* Experience in reverse-engineering software (web application and Android app), dig out business insights of competitor
+* Familiar with authentication, anti-DDoS, man-in-the-middle, and information operation. Zero security damage occurred
 
 ### Law / Compliance
 
-* Experience trademarks, patents and copyright, especially open source compliance, understand practices to meet business global strategies. Ever filed 6 patents.
-* Familiar with privacy and compliance, GDPR, CCPA, etc..
+* Experience in trademarks, patents and copyright, especially open source compliance, understand practices to meet business global strategies. Ever filed 6 patents
+* Familiar with privacy and compliance, GDPR, CCPA, etc.
 
 ## Public Presentation
 
+- 2022-12-20 : Securing the Software Supply Chain Beyond SBOM @ TSMC / 台積電 / 台灣積體電路製造
+- 2022-12-03 : [融通技術前端與後端的重新想像](https://2022.laravelconf.tw/agendas) @ Laravel x Vue Conf Taiwan 2022 Keynote
+- 2022-09-22 : [軟體供應鏈攻擊與武器化 - 開源軟體與緩解策略](https://cyber.ithome.com.tw/2022/session-page/819) @ 台灣資安大會 2022
+- 2022-07-31 : [Developer experience for (PHP) CRUD programmer](https://coscup.org/2022/en/session/DDGUUA) @ COSCUP 2022
+- 2021-07-17 : [如何做技術選型決策](https://www.accupass.com/event/2106220745381510198433) @ 技術管理者論壇
+- 2021-02-04 : [技術人的職涯規劃](https://learn.bizthinking.com.tw/packages/19e157/intro) @ 商業思維學院
+- 2020-10-16 : [Testing in Production, Deploy on Fridays](https://modernweb.tw/2020/speaker-page/7481.html) @ Modern Web Taiwan 2020
 - 2020-08-02 : [COSCUP 2020 Day2 - Opening Keynote](https://coscup.org/2020/en/agenda)
 - 2020-08-01 : [COSCUP 2020 Day1 - Opening Keynote](https://coscup.org/2020/en/agenda)
 - 2020-07-25 : [LaravelConf Taiwan 2020 - Severless PHP Case Agile Dashboard via GitLab Board API](https://2020.laravelconf.tw/)
